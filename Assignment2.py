@@ -6,3 +6,4 @@ temp = a
 a = b
 b = temp
 print("Variables after swapping are :",(a,b))
+#for swapping variables we have created a temp named identifier.
